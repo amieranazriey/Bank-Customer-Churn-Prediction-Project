@@ -1,3 +1,4 @@
 # Bank-Customer-Churn-Prediction-Project
-Data analytics project to predict customer churn from banking industry.
+Customer churn leads to significant revenue loss for banks.
+This project aims to analyze customer behavior and build machine learning models to predict customers at risk of churning in order to formulate retention strategies
 Exploratory data analysis to understand the factors influencing customer churn in banks.
